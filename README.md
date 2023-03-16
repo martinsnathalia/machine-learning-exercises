@@ -1,3 +1,5 @@
+![DALL·E 2023-03-16 16 11 14 2](https://user-images.githubusercontent.com/89808695/225728782-990f2e98-56f8-4b22-ad6d-fdbe07908f91.png)
+
 # Machine Learning Exercises
 
 This repo is about activities for implementing techniques and practicing Machine Learning algorithms.
