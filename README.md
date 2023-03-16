@@ -13,4 +13,4 @@ There are 2 folders relative to code and data:
 Libraries used in the exercises:
 - Numpy
 - Pandas
-- Sckit-Learn
+- Scikit-Learn
